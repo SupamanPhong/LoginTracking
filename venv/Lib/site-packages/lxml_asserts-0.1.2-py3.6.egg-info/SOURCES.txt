@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+lxml_asserts/__init__.py
+lxml_asserts/compat.py
+lxml_asserts/graph_utils.py
+lxml_asserts/testcase.py
+lxml_asserts.egg-info/PKG-INFO
+lxml_asserts.egg-info/SOURCES.txt
+lxml_asserts.egg-info/dependency_links.txt
+lxml_asserts.egg-info/not-zip-safe
+lxml_asserts.egg-info/requires.txt
+lxml_asserts.egg-info/top_level.txt

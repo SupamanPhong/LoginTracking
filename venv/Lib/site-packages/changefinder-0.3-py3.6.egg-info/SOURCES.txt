@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+changefinder/__init__.py
+changefinder.egg-info/PKG-INFO
+changefinder.egg-info/SOURCES.txt
+changefinder.egg-info/dependency_links.txt
+changefinder.egg-info/requires.txt
+changefinder.egg-info/top_level.txt
+test/__init__.py
+test/test.py

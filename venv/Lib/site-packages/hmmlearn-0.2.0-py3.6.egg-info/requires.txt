@@ -1,0 +1,12 @@
+
+[docs]
+sklearn>=0.16
+Sphinx
+sphinx-gallery
+numpydoc
+Pillow
+matplotlib
+
+[tests]
+sklearn>=0.16
+pytest
